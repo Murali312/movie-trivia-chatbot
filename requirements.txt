@@ -1,0 +1,9 @@
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-ollama>=0.2.0
+langchain-chroma>=0.1.4
+pypdf
+gradio>=5.0.0
+python-dotenv
+langsmith
