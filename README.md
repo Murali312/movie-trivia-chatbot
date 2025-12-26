@@ -37,6 +37,9 @@ venv\Scripts\activate
 
 # Activate the environment (Mac/Linux)
 # source venv/bin/activate
+
+# Install required libraries
+pip install -r requirements.txt
 ```
 
 ### 2. Download Ollama Models
@@ -67,5 +70,3 @@ python app.py
 ### After running, open your browser and go to: 👉 http://127.0.0.1:7860 ###
 
 
-# Install required libraries
-pip install -r requirements.txt
